@@ -1,5 +1,5 @@
 # Simple-data-scraping
-web scraping simple project using selenium 
+simple project using selenium 
 
 #### In this project, you will scrape a web site to get the information of the books.
 
