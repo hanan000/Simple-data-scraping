@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Selenium / browser driver logs and binaries
+geckodriver.log
+geckodriver
+geckodriver.exe
+
+# Scraper output
+*.csv
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
