@@ -1,0 +1,6 @@
+# Scraper
+selenium>=4.6
+lxml>=4.9
+
+# Tests
+pytest>=7.0
